@@ -10,6 +10,8 @@ using namespace std;
 #define S second
 #define fastio ios_base::sync_with_stdio(false); cin.tie(NULL)
 
+//this code gets 50/100 points
+
 int main(){
 	#ifndef ONLINE_JUDGE
 	freopen("input.txt", "r", stdin);
